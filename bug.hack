@@ -1,0 +1,1 @@
+function foo(x: int): int {  return x + 1; } function bar(x: string): string {  return x . "abc"; } function baz(x: int): string {  return x . "abc"; // Error: Operator '.' cannot be applied to operands of type 'int' and 'string' } 
