@@ -1,0 +1,1 @@
+This repository demonstrates a common type mismatch error in Hack, specifically when using the '.' operator (string concatenation) with an integer and a string. The example code highlights this error and includes a solution to fix it.
